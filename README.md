@@ -9,6 +9,7 @@ Implementations for all papers in the image below
 (sourced from [Neural-Style-Transfer-Papers](https://github.com/ycjing/Neural-Style-Transfer-Papers)) are currently 
 being attempted, and usage instructions for any completed 
 implementation is added underneath.
+
 ![taxonomy](https://github.com/ycjing/Neural-Style-Transfer-Papers/raw/master/framework_n5.png)
 
 ### A Neural Algorithm of Artistic Style, Gatys *et al* [[paper](https://arxiv.org/pdf/1508.06576.pdf)]
